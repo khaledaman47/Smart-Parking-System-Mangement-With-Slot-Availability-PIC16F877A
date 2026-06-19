@@ -120,8 +120,8 @@ The parking count is automatically updated whenever a vehicle enters or exits.
 
 | Name | Student ID |
 |--------|------------|
-| Khaled Abdalfattah | 62220019 |
 | Khaled Aman | 62220081 |
+| Khaled Abdalfattah | 62220019 |
 | Waleed Al-Ogaidi | 62210072 |
 
 ---
